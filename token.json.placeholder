@@ -1,0 +1,5 @@
+{"access_token": "........", "client_id": "..........apps.googleusercontent.com", "client_secret": ".........", "refresh_token": "", "token_expiry": "2023-05-30T15:57:27Z", "token_uri": "https://oauth2.googleapis.com/token", "user_agent": null, "revoke_uri": "https://oauth2.googleapis.com/revoke", "id_token": null, "id_token_jwt": null, "token_response": {"access_token": "............", "expires_in": 3599, "refresh_token": "", "scope": "https://www.googleapis.com/auth/forms.body", "token_type": "Bearer"}, "scopes": ["https://www.googleapis.com/auth/forms.body"], "token_info_uri": "https://oauth2.googleapis.com/tokeninfo", "invalid": false, "_class": "OAuth2Credentials", "_module": "oauth2client.client"}
+
+{
+  "info": "This is a placeholder file. The actual content is not included in the repository."
+}
