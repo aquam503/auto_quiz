@@ -11,7 +11,7 @@ import tempfile
 
 
 # Set up your OpenAI API credentials
-openai.api_key = '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'
+openai.api_key = 'skOp'
 
 # Create a recognizer object
 r = sr.Recognizer()
